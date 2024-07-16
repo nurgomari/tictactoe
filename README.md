@@ -1,4 +1,4 @@
-#Tic-Tac-Toe
+# Tic-Tac-Toe
 
 Implementación del clásico tres en raya con el lenguaje Python y el framework Django
 
